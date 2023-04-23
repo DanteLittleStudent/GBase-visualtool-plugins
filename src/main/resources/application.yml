@@ -1,0 +1,6 @@
+context:
+  listener:
+    classes: com.gbase.admin.plugin.listener.PluginListener
+spring:
+  resources:
+    static-locations: classpath:resources,file:D://resources
